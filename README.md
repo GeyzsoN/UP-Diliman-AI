@@ -1,11 +1,14 @@
 # UP-Diliman-AI
 A curated collection of Artificial Intelligence materials, lectures, projects, and references tailored for students and enthusiasts associated with the University of the Philippines Diliman Artificial Intelligence Program. Open to contributions and collaborations.
 
-Adding learning materials authored by our professors are not allowed.
-
 # Resources:
-
 ### Instructor Courses:
+* [Artificial Intelligence - AI 201](https://github.com/GeyzsoN/UP-Diliman-AI.git)  
+    Fundamental concepts in Artificial Intelligence.
+* [Computational Linear Algebra for AI - AI 211](https://github.com/GeyzsoN/UP-Diliman-AI.git)  
+    Mathematical and Computational Methods for AI.
+* [Computational Linear Algebra for AI - AI 212](https://ocw.mit.edu/courses/6-436j-fundamentals-of-probability-fall-2018/)
+    Advanced Statistical Techniques and Models, Convergence and Inequalities, Random Number Theory for AI problems.
 * [Classical Machine Learning - AI 221](https://github.com/kspilario/AI221.git)  
     Classical supervised and unsupervised learning models for AI and engineering problems.
 * [Advanced Machine Learning - AI 222](https://github.com/roatienza/Deep-Learning-Experiments)  
